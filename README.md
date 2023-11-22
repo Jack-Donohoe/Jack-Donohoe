@@ -16,7 +16,7 @@
   
   ### Education:
     
-    - I am currently studying Applied Computing at South East Technological University in the Game Development stream.
+    - I am currently studying Computer Science at South East Technological University in the Game Development stream.
 
   ---
   
